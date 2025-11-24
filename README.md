@@ -79,6 +79,5 @@ Cambridge Institute of Technology, Bangalore
 
 ## 🙌 Let's Connect!
 I love collaborating on projects related to 💻 Full Stack, ⚙ Automation Testing, and 🤖 AI/ML.  
-Feel free to reach out — always open to learning and new opportunities!
-Thank you for visiting my profile! 😊
+Feel free to reach out — always open to learning and new opportunities!😊
 
