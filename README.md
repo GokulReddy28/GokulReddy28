@@ -3,8 +3,8 @@
 🚀 Full Stack Developer & Software Test Engineer  
 📍 Bengaluru, Karnataka  
 📧 Email: ggokulnandahv@gmail.com  
-🔗 LinkedIn: https://linkedin.com/ (add your full link here)  
-🔗 GitHub: https://github.com/ (add your username link here)
+🔗 LinkedIn:https://www.linkedin.com/in/gokul-nanda-hv-677b8137a/  
+🔗 GitHub:https://github.com/GokulReddy28
 
 ---
 
