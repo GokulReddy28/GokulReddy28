@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Gokul Nanda HV
 
-<🚀 Full Stack Developer & Software Test Engineer  
+🚀 Full Stack Developer & Software Test Engineer  
 📍 Bengaluru, Karnataka  
 📧 Email: ggokulnandahv@gmail.com  
 🔗 LinkedIn: https://linkedin.com/ (add your full link here)  
@@ -79,5 +79,6 @@ Cambridge Institute of Technology, Bangalore
 
 ## 🙌 Let's Connect!
 I love collaborating on projects related to 💻 Full Stack, ⚙ Automation Testing, and 🤖 AI/ML.  
-Feel free to reach out — always open to learning and new opportunities!>
+Feel free to reach out — always open to learning and new opportunities!
+Thank you for visiting my profile! 😊
 
